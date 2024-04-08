@@ -1,0 +1,9 @@
+Q6: State True and False:
+A function may be called more than once from any other function
+It is necessary for a function to return some value.
+
+
+Ans 
+
+1- True. - One of the main uses of a function is that it can be called any times in the program to do the same work again and again
+2- False. - A function can have the return type as void. Meaning that it doesn't return anything.

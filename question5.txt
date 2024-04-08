@@ -1,0 +1,8 @@
+Q5: The minimum number of functions present in any C++ program is:
+0
+1
+2
+Infinite
+
+Ans: The answer here Should be (B)1. The reason because I feel a program can have no user defined functions at minimum but there should be 
+atleast 1 function i.e the main function, in order for the program to run. 

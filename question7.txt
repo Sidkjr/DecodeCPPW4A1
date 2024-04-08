@@ -1,0 +1,4 @@
+Q7: Explore:
+Can the same function name be used for different functions without any conflict?
+
+Ans - Yes C++ allows the use of of same name for different functions, only provided they are in scope and have different parameters.
